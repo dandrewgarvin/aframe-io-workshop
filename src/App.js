@@ -10,7 +10,7 @@ import 'aframe'
 import {Entity, Scene} from 'aframe-react'
 
 // There are additional components we can bring in from NPM for various effects. In this case, we're bringing in a particle system.
-import 'aframe-particle-system-component';
+import 'aframe-particle-system-component'
 
 class App extends Component {
 
